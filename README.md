@@ -12,7 +12,6 @@ This script start/stop the Minecraft server running raspberry pi.
 * RAM: 1GB LPDDR2 (900 MHz)
 
 ## Usage
-Check out the collect script for infomation about different options.
 ```
 python ctl_minecraft_server.py --help
 usage: ctl_minecraft_server.py [-h] [-e {start,stop}]
